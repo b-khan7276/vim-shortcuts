@@ -1,0 +1,30 @@
+Vim shortcuts:
+
+
+: to drag into  the bottom
+q to quit
+wq to save and quit
+q! quit but dont save the file
+w save a file
+j  cursergoes down  
+k  curser goes up 
+l for right
+h for left
+g goes up
+G goes down
+{ block up
+} block down
+i for typing 
+10 j for 10 llines down
+10 k for 10 lines up
+10{ 10 blocks up
+10} 10 blocks down
+dd for delete a line
+u for undo
+ctrl r to redo
+y to copy 
+p to paste
+esc for exit typing mode
+V for visusal mood
+w for next word
+b for back word
